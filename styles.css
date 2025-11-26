@@ -11,6 +11,10 @@ h1, h2, h3, p {
     text-shadow: 1px 1px 5px black;
 }
 
+h1 {
+    font-size: 50px;
+}
+
 .hero-content h2 {
     display: inline-block;
     background-color: #1f2022c0;
