@@ -9,7 +9,7 @@ Este site foi criado como uma homenagem à minha namorada, mas serve também com
 
 <img src="img/meu amor2.JPG" width="300" alt="Screenshot do site">
 
-> 💬 *“Te amo mais que tudo.”*
+> 💬 *“Te amo mais que tudo!.”*
 
 🔗 **Veja ao vivo:** [](#)
 
